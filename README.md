@@ -1,4 +1,4 @@
 rubikscube
 ==========
 
-Rubik'd Cube implementation using WebGL
+Rubik's Cube implementation using WebGL
